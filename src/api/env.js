@@ -1,4 +1,5 @@
-export const URL_BASE = 'https://apitinflix.episodesranking.xyz/';
+export const URL_BASE = 'https://api.themoviedb.org/3/movie/550?api_key={env.api_key}'
+// export const URL_BASE = 'https://apitinflix.episodesranking.xyz/';
 // export const URL_BASE = 'http://192.168.0.106:3235/';
 export const NETFLIX_URL = 'https://www.netflix.com/watch/';
 export const IMDB_URL = 'https://www.imdb.com/title/';
